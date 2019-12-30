@@ -21,6 +21,7 @@
         <jelastic.environment>wakaleo</jelastic.environment>
     </properties>
     <!-- For test purpose -->
+	<!-- Creating a git merge conflict -->
     <scm>
         <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
         <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
